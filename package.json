@@ -1,0 +1,23 @@
+{
+  "name": "google-auth-mvp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aperez1997/google-auth-mvp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aperez1997/google-auth-mvp/issues"
+  },
+  "homepage": "https://github.com/aperez1997/google-auth-mvp",
+  "dependencies": {
+    "express": "^4.16.1",
+    "googleapis": "^22.2.0"
+  }
+}
